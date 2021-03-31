@@ -1,1 +1,1 @@
-# This is a documentation of my Flask app development 
+#  Flask app development 
